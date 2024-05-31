@@ -24,7 +24,7 @@ This is my Resume created using HTML and CSS. This project showcases skills, exp
 
 ## Demo
 
-(https://github.com/Shivamgpt812/Digital-Resume/assets/144247614/2bf129dc-9cfb-4411-9dd1-b75e59b23023)
+![WhatsApp Image 2024-05-31 at 21 16 08_e9a82593](https://github.com/Shivamgpt812/Digital-Resume/assets/144247614/2bf129dc-9cfb-4411-9dd1-b75e59b23023)
 
 
 ## Installation
